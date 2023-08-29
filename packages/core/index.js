@@ -1,3 +1,3 @@
 export const hello = () => {
-    console.log("Hello from hot reload")
+    console.log("Hello world")
 }
