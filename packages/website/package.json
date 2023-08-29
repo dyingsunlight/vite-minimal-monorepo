@@ -1,0 +1,12 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite dev"
+  },
+  "dependencies": {
+    "@types/node": "^20.5.7",
+    "core": "file:../core",
+    "vite": "^4.4.9"
+  }
+}
